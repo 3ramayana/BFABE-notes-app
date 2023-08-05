@@ -13,6 +13,8 @@
     "camelcase": "off",
     "object-curly-newline": "off",
     "comma-dangle": "off",
-    "import/no-extraneous-dependencies": "off"
+    "import/no-extraneous-dependencies": "off",
+    "operator-linebreak": "off",
+    "implicit-arrow-linebreak": "off"
   }
 }
